@@ -237,6 +237,28 @@ input[type = submit] {
     
 }
 
+/* dasboard */
+.dashbord-title-container {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+
+.dashboard-events-container th {
+    width: 25%;
+}
+
+
+.dashboard-events-container form {
+    display: inline-block;
+}
+
+
+/* edid page */
+.img-preview {
+    width: 100px;
+    margin-top: 30px;
+}
 
 
 
